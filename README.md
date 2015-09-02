@@ -13,12 +13,12 @@ for more information.
 
 ### Without React
 
-1. `npm install --save-dev eslint-config-webkom babel-eslint `
+1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom babel-eslint`
 2. add `"extends": "webkom"` to your .eslintrc
 
 ### With React
 
-1. `npm install --save-dev eslint-config-webkom babel-eslint eslint-plugin-react`
+1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom babel-eslint eslint-plugin-react`
 2. add `"extends": "webkom/react"` to your .eslintrc
 
 ## Airbnb changes
