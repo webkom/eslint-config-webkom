@@ -13,8 +13,12 @@ for more information.
 
 ### Without React
 
+#### ES6:
 1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom babel-eslint`
-2. ES6: Add `"extends": "webkom"` to your .eslintrc
+2. Add `"extends": "webkom"` to your .eslintrc
+
+#### ES5:
+1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom`
 2. ES5: Add `"extends": "webkom/legacy"` to your .eslintrc
 
 ### With React
