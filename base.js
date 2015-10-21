@@ -5,5 +5,6 @@ module.exports = {
   }],
   'comma-dangle': [2, 'never'], // eslint.org/docs/rules/comma-dangle.html
   'default-case': 0, // http://eslint.org/docs/rules/default-case.html,
-  'id-length': 0
+  'id-length': 0,
+  'func-names': 0
 };
