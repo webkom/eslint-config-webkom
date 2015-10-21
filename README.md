@@ -14,7 +14,8 @@ for more information.
 ### Without React
 
 1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom babel-eslint`
-2. add `"extends": "webkom"` to your .eslintrc
+2. ES6: Add `"extends": "webkom"` to your .eslintrc
+2. ES5: Add `"extends": "webkom/legacy"` to your .eslintrc
 
 ### With React
 
@@ -22,7 +23,7 @@ for more information.
 2. add `"extends": "webkom/react"` to your .eslintrc
 
 ## Airbnb changes
-See `base.js` and `react.js` for the rule changes from
+See `base.js`, `react.js` and `legacy.js` for the rule changes from
 default Airbnb.
 
 ## License
