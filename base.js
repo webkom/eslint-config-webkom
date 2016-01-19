@@ -13,5 +13,6 @@ module.exports = {
   'arrow-spacing': [2, { before: true, after: true }],
   'prefer-spread': 2,
   'constructor-super': 2,
-  'space-before-function-paren': [2, 'never']
+  'space-before-function-paren': [2, 'never'],
+  'no-param-reassign': [2, { props: false }]
 };
