@@ -10,6 +10,7 @@ module.exports = {
   'object-curly-spacing': [2, 'always'],
   'object-shorthand': [2, 'always'],
   'no-const-assign': 2,
+  'arrow-parens': [2, 'as-needed'],
   'arrow-spacing': [2, { before: true, after: true }],
   'prefer-spread': 2,
   'constructor-super': 2,
