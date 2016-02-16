@@ -15,7 +15,15 @@ for more information.
 
 #### ES6:
 1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom babel-eslint`
-2. Add `"extends": "webkom"` to your .eslintrc
+2. Add `"extends": "webkom"` and `"parser": "babel-eslint"` to your .eslintrc
+
+Example:
+```json
+{
+  "extends": "webkom",
+  "parser": "babel-eslint"
+}
+```
 
 #### ES5:
 1. `npm install --save-dev eslint-config-airbnb eslint-config-webkom`
