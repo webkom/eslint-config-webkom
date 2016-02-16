@@ -18,7 +18,6 @@
   },
   "peerDependencies": {
     "eslint-config-airbnb": "*",
-    "babel-eslint": "*",
     "eslint": "*"
   }
 }
