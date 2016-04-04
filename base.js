@@ -15,5 +15,6 @@ module.exports = {
   'prefer-spread': 2,
   'constructor-super': 2,
   'space-before-function-paren': [2, 'never'],
-  'no-param-reassign': [2, { props: false }]
+  'no-param-reassign': [2, { props: false }],
+  'no-confusing-arrow': 0
 };
