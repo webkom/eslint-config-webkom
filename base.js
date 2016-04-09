@@ -16,5 +16,16 @@ module.exports = {
   'constructor-super': 2,
   'space-before-function-paren': [2, 'never'],
   'no-param-reassign': [2, { props: false }],
-  'no-confusing-arrow': 0
+  'no-confusing-arrow': 0,
+  'new-cap': [2, {
+    capIsNewExceptions: [
+      'Router',
+      'Before',
+      'BeforeFeatures',
+      'AfterFeatures',
+      'Then',
+      'When',
+      'Given'
+    ]
+  }]
 };
