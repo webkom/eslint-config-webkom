@@ -9,6 +9,9 @@ See [Airbnb's Javascript styleguide](https://github.com/airbnb/javascript) and
 the [ESLint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
 for more information.
 
+## Deprecated
+eslint-config-webkom is deprecated - use Airbnb directly instead.
+
 ## Usage
 
 ### Without React
