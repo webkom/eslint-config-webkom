@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/webkom/eslint-config-webkom#readme",
   "dependencies": {
-    "object-assign": "4.0.1"
+    "object-assign": "4.1.1"
   },
   "peerDependencies": {
     "eslint-config-airbnb": "*",
